@@ -1,1 +1,3 @@
-# liturgical-year-chart
+# Liturgical Year Chart
+
+An SVG-based chart created with Inkscape.
